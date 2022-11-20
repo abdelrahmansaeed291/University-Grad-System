@@ -1,1 +1,1 @@
-# Unverstty-Grad-System
+# University-Grad-System
